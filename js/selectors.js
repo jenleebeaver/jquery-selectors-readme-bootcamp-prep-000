@@ -1,8 +1,8 @@
 // declare your functions here...
 function paragraphSelector() {
-    $('p-tags')
+    $('p');
 };
 
-/*$(document).ready(paragraphSelector() {
-  $('p-tags')
-})
+// $(document).ready(paragraphSelector() {
+//   $('p-tags')
+// })
