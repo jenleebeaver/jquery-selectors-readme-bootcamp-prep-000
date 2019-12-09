@@ -2,7 +2,7 @@
 
 function paragraphSelector() {
   const p = $('p');
-    return p;
+  return p;
 };
 
 // $(document).ready(paragraphSelector() {
