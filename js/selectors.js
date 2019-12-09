@@ -7,6 +7,10 @@ function paragraphSelector() {
 function lastImageSelector() {
   return $('img:last');
 }
+
+function ninjaBabySelector() {
+  return $('#baby-ninja');
+}
 // $(document).ready(paragraphSelector() {
 //   $('p-tags')
 // })
