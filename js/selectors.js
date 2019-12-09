@@ -1,10 +1,12 @@
 // declare your functions here...
 
 function paragraphSelector() {
-  const p = $('p');
-  return p;
+  return $('p');
 };
 
+function lastImageSelector() {
+  return $('img:last');
+}
 // $(document).ready(paragraphSelector() {
 //   $('p-tags')
 // })
