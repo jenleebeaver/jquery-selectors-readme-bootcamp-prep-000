@@ -5,4 +5,3 @@ function paragraphSelector{
 $(document).ready(paragraphSelector() {
   $('p-tags')
 })
-
